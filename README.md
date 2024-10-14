@@ -21,5 +21,8 @@ I'm a junior full-stack developer who is enthusiastic about leveraging software 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" style="height:50px"alt = "node"/>
 <img src="https://cdn-icons-png.flaticon.com/128/7492/7492895.png" style="height:50px"alt = "prisma"/>
 <img src="https://cdn-icons-png.flaticon.com/128/11518/11518876.png" style="height:50px"alt = "git"/>
-
 </p>
+
+#
+
+## 📊 Statistics
