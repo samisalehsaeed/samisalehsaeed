@@ -13,11 +13,13 @@ I'm a junior full-stack developer who is enthusiastic about leveraging software 
 ## 🤓 TechStack
 
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png"style="height:20px" alt = "html" />
-<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" style="height:20px"alt = "css"/>
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" style="height:20px"alt = "js"/>
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" style="height:20px"alt = "python"/>
-<img src="https://cdn-icons-png.flaticon.com/128/3334/3334886.png" style="height:20px"alt = "react"/>
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" style="height:20px"alt = "node"/>
-<img src="https://cdn-icons-png.flaticon.com/128/7492/7492895.png" style="height:20px"alt = "prisma"/>
+<img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png"style="height:30px" style="padding-right:10px" alt = "html" />
+<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" style="height:30px"alt = "css"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" style="height:30px"alt = "js"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" style="height:30px"alt = "python"/>
+<img src="https://cdn-icons-png.flaticon.com/128/3334/3334886.png" style="height:30px"alt = "react"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" style="height:30px"alt = "node"/>
+<img src="https://cdn-icons-png.flaticon.com/128/7492/7492895.png" style="height:30px"alt = "prisma"/>
+<img src="https://cdn-icons-png.flaticon.com/128/11518/11518876.png" style="height:30px"alt = "git"/>
+
 </p>
