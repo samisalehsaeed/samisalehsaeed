@@ -1,6 +1,6 @@
-## Sami Saeed 👨🏽‍💻
+## 👨🏽‍💻 Sami Saeed
 
-`Aspiring Digital Craftsman`
+`Aspiring Digital Craftsman (Developer/Graphic Designer)`
 
 I'm a junior full-stack developer who is enthusiastic about leveraging software development skills to contribute to impactful projects, I bring a solid foundation in full stack technologies, including React and NodeJS, gained through rigorous training and a hands-on bootcamp. My passion for building efficient and user-friendly applications aligns with a culture of creativity and collaboration, and I am eager to support a mission that prioritises innovative solutions in technology.
 
