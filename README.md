@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAC/pixels-neon.gif"/>
 
-<!--
-**samisalehsaeed/samisalehsaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sami Saeed 👨🏽‍💻
 
-Here are some ideas to get you started:
+** `Aspiring Digital Craftsman`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a junior full-stack developer who is enthusiastic about leveraging software development skills to contribute to impactful projects, I bring a solid foundation in full stack technologies, including React and NodeJS, gained through rigorous training and a hands-on bootcamp. My passion for building efficient and user-friendly applications aligns with a culture of creativity and collaboration, and I am eager to support a mission that prioritises innovative solutions in technology.
+
+<p align="left">
+<a href="https://www.linkedin.com/in/samisalehsaeed/">
+<img src="https://ccpi.ac.uk/wp-content/webpc-passthru.php?src=https://ccpi.ac.uk/wp-content/uploads/2022/06/Linkedin-Logo.png&nocache=1"/>
+</a>
+</p>
