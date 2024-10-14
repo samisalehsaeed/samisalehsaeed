@@ -1,5 +1,3 @@
-<img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAC/pixels-neon.gif"/>
-
 ## Sami Saeed 👨🏽‍💻
 
 `Aspiring Digital Craftsman`
