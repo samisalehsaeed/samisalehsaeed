@@ -9,3 +9,13 @@ I'm a junior full-stack developer who is enthusiastic about leveraging software 
 <img src="https://ccpi.ac.uk/wp-content/webpc-passthru.php?src=https://ccpi.ac.uk/wp-content/uploads/2022/06/Linkedin-Logo.png&nocache=1" style="height:50px"/>
 </a>
 </p>
+
+## 🤓 TechStack
+
+<img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt = "html" />
+<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt = "css"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt = "js"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt = "python"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt = "react"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" alt = "node"/>
+<img src="https://cdn-icons-png.flaticon.com/128/7492/7492895.png" alt = "prisma"/>
