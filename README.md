@@ -6,6 +6,6 @@ I'm a junior full-stack developer who is enthusiastic about leveraging software 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/samisalehsaeed/">
-<img src="https://ccpi.ac.uk/wp-content/webpc-passthru.php?src=https://ccpi.ac.uk/wp-content/uploads/2022/06/Linkedin-Logo.png&nocache=1" style="height:10px"/>
+<img src="https://ccpi.ac.uk/wp-content/webpc-passthru.php?src=https://ccpi.ac.uk/wp-content/uploads/2022/06/Linkedin-Logo.png&nocache=1" style="height:70px"/>
 </a>
 </p>
