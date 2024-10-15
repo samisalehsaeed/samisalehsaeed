@@ -1,8 +1,10 @@
+<img src="https://media1.tenor.com/m/OXyGMl4fGboAAAAC/animate-background-technology.gif"/>
+
 ## 👨🏽‍💻 Sami Saeed
 
 `Aspiring Digital Craftsman (Developer/Graphic Designer)`
 
-I'm a junior full-stack developer who is enthusiastic about leveraging software development skills to contribute to impactful projects, I bring a solid foundation in full stack technologies, including React and NodeJS, gained through rigorous training and a hands-on bootcamp. My passion for building efficient and user-friendly applications aligns with a culture of creativity and collaboration, and I am eager to support a mission that prioritises innovative solutions in technology.
+I'm a junior full-stack developer who is enthusiastic about leveraging software development skills to contribute to impactful projects, I bring a solid foundation in full stack technologies, including React and NodeJS, gained through rigorous training and a hands-on bootcamp. I'm passionate about building efficient, user-friendly applications and enjoy working in creative, collaborative environments. I'm eager to be part of a mission that focuses on driving innovative tech solutions.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/samisalehsaeed/">
