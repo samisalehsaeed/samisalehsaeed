@@ -27,5 +27,7 @@ I'm a junior full-stack developer who is enthusiastic about leveraging software 
 
 ## 📊 Statistics
 
+<p align="center">
 ![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=samisalehsaeed&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisalehsaeed)](https://github.com/samisalehsaeed/github-readme-stats)
+</p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisalehsaeed)](https://github.com/samisalehsaeed/github-readme-stats) -->
