@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/OXyGMl4fGboAAAAC/animate-background-technology.gif"/>
+<img src="https://media1.tenor.com/m/OXyGMl4fGboAAAAC/animate-background-technology.gif" style="height:100px"/>
 
 ## 👨🏽‍💻 Sami Saeed
 
