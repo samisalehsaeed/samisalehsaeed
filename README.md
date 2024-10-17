@@ -7,7 +7,7 @@
 I'm a junior full-stack developer who is enthusiastic about leveraging software development skills to contribute to impactful projects, I bring a solid foundation in full stack technologies, including React and NodeJS, gained through rigorous training and a hands-on bootcamp. I'm passionate about building efficient, user-friendly applications and enjoy working in creative, collaborative environments. I'm eager to be part of a mission that focuses on driving innovative tech solutions.
 
 <p align="center">
-<a href="https://www.linkedin.com/in/samisalehsaeed/" target="_blank">
+<a href="https://www.linkedin.com/in/samisalehsaeed/" target="__blank">
 <img src="https://ccpi.ac.uk/wp-content/webpc-passthru.php?src=https://ccpi.ac.uk/wp-content/uploads/2022/06/Linkedin-Logo.png&nocache=1" style="height:50px"/>
 </a>
 </p>
